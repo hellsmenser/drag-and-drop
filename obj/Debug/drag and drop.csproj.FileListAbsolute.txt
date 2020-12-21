@@ -1,0 +1,10 @@
+L:\лабы\drag and drop\drag and drop\bin\Debug\drag and drop.exe.config
+L:\лабы\drag and drop\drag and drop\bin\Debug\drag and drop.exe
+L:\лабы\drag and drop\drag and drop\bin\Debug\drag and drop.pdb
+L:\лабы\drag and drop\drag and drop\obj\Debug\drag and drop.csprojAssemblyReference.cache
+L:\лабы\drag and drop\drag and drop\obj\Debug\drag_and_drop.Form1.resources
+L:\лабы\drag and drop\drag and drop\obj\Debug\drag_and_drop.Properties.Resources.resources
+L:\лабы\drag and drop\drag and drop\obj\Debug\drag and drop.csproj.GenerateResource.cache
+L:\лабы\drag and drop\drag and drop\obj\Debug\drag and drop.csproj.CoreCompileInputs.cache
+L:\лабы\drag and drop\drag and drop\obj\Debug\drag and drop.exe
+L:\лабы\drag and drop\drag and drop\obj\Debug\drag and drop.pdb
